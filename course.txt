@@ -1,0 +1,9 @@
+	133 	chinese 	3 	1 	45 	6 	100 
+	134 	english 	3 	1 	45 	1 	100 
+	134 	sport 	3 	1 	40 	3 	150 
+	136 	history 	3 	2 	40 	4 	100 
+	137 	art 	2 	2 	40 	0 	100 
+	138 	computer 	3 	1 	45 	3 	150 
+	139 	japanese 	2 	2 	35 	2 	100 
+	23 	math 	2 	1 	45 	0 	100 
+	26 	music 	2 	2 	40 	0 	50 

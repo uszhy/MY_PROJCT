@@ -1,0 +1,14 @@
+	165 	zhanghaoyue 	14 	5	computer 	chinese 	sport 	japanese 	sport 
+	168 	chenxiaoran 	8 	3	english 	computer 	art 
+	175 	yuanke 	8 	3	english 	art 	history 
+	177 	yufengyi 	7 	3	history 	japanese 	art 
+	183 	wulei 	6 	2	computer 	chinese 
+	198 	wangpeng 	5 	2	chinese 	japanese 
+	186 	yangxiaoxue 	6 	2	chinese 	sport 
+	194 	wang 	3 	1	sport 
+	265 	leilei 	6 	2	history 	english 
+	987 	maomao 	3 	1	history 
+	199 	wuy 	3 	1	chinese 
+	166 	ping 	6 	2	history 	chinese 
+	667 	qiiuyu 	3 	1	chinese 
+	963 	pingping 	3 	1	history 
